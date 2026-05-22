@@ -3,5 +3,8 @@ no alcanzamos a hacer mucho, solo tenemos el nombre del juego (The curse of Scap
 
 somos el grupo Alt+F4, buenas tardes 😀​👍​
 
-## pantalla principal:l
+## pantalla principal:
 ![uafsduaysd](hormigas.png)
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/20c38c6a-fbdd-4c9a-93a7-12279fd36468" />
+
